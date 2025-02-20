@@ -1,0 +1,1 @@
+/*5.  	Crie uma função sem parâmetros que retorne uma mensagem personalizada de sua preferência.*/

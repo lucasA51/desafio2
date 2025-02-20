@@ -1,0 +1,1 @@
+/*3. Crie uma lista contendo 4 números e, em seguida, exiba todos os números na tela.*/
