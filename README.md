@@ -1,7 +1,7 @@
 # Desafio 2 da trilha de ciência de dados Inova Maranhão
 
 ## O Desafio
- Este repositório contém a resolução do desafio 2 da trilha de ciência de dados do programa inova maranhão esta resolução inclui uma porção de código javascript para resolver a primeira parte do desafio envolvendo lógica de programação assim como um arquivo pdf e um link para um planilha resolvendo a segunda parte do desafio que envolve analise de dados utilizando o Google sheets.
+ Este repositório contém a resolução do desafio 2 da trilha de ciência de dados do programa inova maranhão esta resolução inclui uma porção de código javascript para resolver a primeira parte do desafio envolvendo lógica de programação assim como um arquivo PDF e um link para um planilha resolvendo a segunda parte do desafio que envolve analise de dados utilizando o Google sheets.
 
 ## Organização do repositório
 
